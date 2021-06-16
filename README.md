@@ -12,7 +12,7 @@ Contains assignments, projects and some analysis I learned about Data Analysis w
 
 ## Tools Used:
 <li>Anaconda</li>
-<li>Studio</li>
+<li>R Studio</li>
 <li>SAS (Statistical Analysis System</li>
 <li>Tableau Desktop</li>
  
