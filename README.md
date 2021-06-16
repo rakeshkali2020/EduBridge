@@ -1,3 +1,5 @@
+<img src="https://www.cxooutlook.com/wp-content/uploads/2020/09/EduBridge-550x330.jpg" alt="EduBridge India"  width=80%>
+
 # Decription:
 Contains assignments, projects and some analysis I learned about Data Analysis with some trending tools and softwares under the training provided by <big><b>Edubridge India.</b></big>
 
@@ -25,5 +27,3 @@ Contains assignments, projects and some analysis I learned about Data Analysis w
 
 
 <h1>THANK YOU!</h1>
-
-(https://user-images.githubusercontent.com/66587834/122208652-3352b380-cec1-11eb-8b11-9ae8b427941e.jpg)
