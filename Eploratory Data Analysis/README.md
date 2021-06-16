@@ -1,1 +1,1 @@
-<h1>Exploratory Data Aanlysis</h1>
+<h1>Exploratory Data Analysis</h1>
