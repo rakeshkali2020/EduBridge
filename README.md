@@ -18,7 +18,7 @@ Contains assignments, projects and some analysis I learned about Data Analysis w
 <li>Tableau Desktop</li>
  
 ## Assignments:
-<li></li>
+<li>To make you aware of all the fundamentals commands of Python, MongoDB, R and SAS. It also covers various visualization techniques with advanced machine learning techniques.</li>
 
 ## Practice Works:
 <li></li>
