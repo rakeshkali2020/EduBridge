@@ -14,6 +14,7 @@ Contains assignments, projects and some analysis I learned about Data Analysis w
 <li>Anaconda</li>
 <li>R Studio</li>
 <li>SAS (Statistical Analysis System)</li>
+<li>Mongo DB</li>
 <li>Tableau Desktop</li>
  
 ## Assignments:
