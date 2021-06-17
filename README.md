@@ -20,7 +20,7 @@ Contains assignments, projects and some analysis I learned about Data Analysis w
 ## Assignments:
 <li></li>
 
-## Practie Works:
+## Practice Works:
 <li></li>
 
 ## Projects:
