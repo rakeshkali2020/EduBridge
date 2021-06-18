@@ -26,6 +26,8 @@ Contains assignments, projects and some analysis I learned about Data Analysis w
 ## Projects:
 <li>The projects are based on EDA of datasets and a simple machine learning technique known as Linear Regression. Feel free to explore them up.</li>
 
+<hr>
+
 Hope, these exercises help you to improve your Python coding skills..... Happy Coding!
 
 <h1>THANK YOU!</h1>
